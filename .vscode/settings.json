@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "**/.rmv/config/*.json": "jsonc"
+    },
+    "[rocket-mvbasic]": {
+        "editor.codeLens": false
+    },
+    "files.exclude": {
+        "**/.rmv/catalog/**": true,
+        "*/_*": false
+    },
+    "cSpell.words": [
+        "STARTUPINFOW"
+    ]
+}
